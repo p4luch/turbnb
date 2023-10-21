@@ -1,4 +1,5 @@
 defmodule TurbnbWeb.UserAuth do
+  @moduledoc false
   use TurbnbWeb, :verified_routes
 
   import Plug.Conn
