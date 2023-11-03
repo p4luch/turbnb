@@ -1,0 +1,111 @@
+## "msgid"s in this file come from POT (.pot) files.
+###
+### Do not add, change, or remove "msgid"s manually here as
+### they're tied to the ones in the corresponding POT file
+### (with the same domain).
+###
+### Use "mix gettext.extract --merge" or "mix gettext.merge"
+### to merge POT files into PO files.
+msgid ""
+msgstr ""
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10||n%100>=20) ? 1 : 2);\n"
+
+msgid "can't be blank"
+msgstr "nie może być puste"
+
+msgid "has already been taken"
+msgstr "już zajęte"
+
+msgid "is invalid"
+msgstr "jest nieważne"
+
+msgid "must be accepted"
+msgstr "wymaga akceptacji"
+
+msgid "has invalid format"
+msgstr "ma niewłaściwy format"
+
+msgid "has an invalid entry"
+msgstr "zawiera nieprawidłowy wpis"
+
+msgid "is reserved"
+msgstr "jest zarezerowane"
+
+msgid "does not match confirmation"
+msgstr "nie pasuje do potwierdzenia"
+
+msgid "is still associated with this entry"
+msgstr "jest nadal powiązane z tym wpisem"
+
+msgid "are still associated with this entry"
+msgstr "są nadal powiązane z tym wpisem"
+
+msgid "should have %{count} item(s)"
+msgid_plural "should have %{count} item(s)"
+msgstr[0] "powinno zawierać %{count} pozycję"
+msgstr[1] "powinno zawierać %{count} pozycji"
+msgstr[2] "powinno zawierać %{count} pozycji"
+
+msgid "should be %{count} character(s)"
+msgid_plural "should be %{count} character(s)"
+msgstr[0] "powinno mieć %{count} znak"
+msgstr[1] "powinno mieć %{count} znaków"
+msgstr[2] "powinno mieć %{count} znaków"
+
+msgid "should be %{count} byte(s)"
+msgid_plural "should be %{count} byte(s)"
+msgstr[0] "powinno mieć %{count} bajt"
+msgstr[1] "powinno mieć %{count} bajtów"
+msgstr[2] "powinno mieć %{count} bajtów"
+
+msgid "should have at least %{count} item(s)"
+msgid_plural "should have at least %{count} item(s)"
+msgstr[0] "powinno mieć co najmniej %{count} pozycję"
+msgstr[1] "powinno mieć co najmniej %{count} pozycji"
+msgstr[2] "powinno mieć co najmniej %{count} pozycji"
+
+msgid "should be at least %{count} character(s)"
+msgid_plural "should be at least %{count} character(s)"
+msgstr[0] "powinno mieć co najmniej %{count} znak"
+msgstr[1] "powinno mieć co najmniej %{count} znaków"
+msgstr[2] "powinno mieć co najmniej %{count} znaków"
+
+msgid "should be at least %{count} byte(s)"
+msgid_plural "should be at least %{count} byte(s)"
+msgstr[0] "powinno mieć co najmniej %{count} batj"
+msgstr[1] "powinno mieć co najmniej %{couht} bajtów"
+msgstr[2] "powinno mieć co najmniej %{couht} bajtów"
+
+msgid "should have at most %{count} item(s)"
+msgid_plural "should have at most %{count} item(s)"
+msgstr[0] "powinno mieć najwyżej %{count} pozycję"
+msgstr[1] "powinno mieć najwyżej %{count} pozycji"
+msgstr[2] "powinno mieć najwyżej %{count} pozycji"
+
+msgid "should be at most %{count} character(s)"
+msgid_plural "should be at most %{count} character(s)"
+msgstr[0] "powinno mieć najwyżej %{count} znak"
+msgstr[1] "powinno mieć najwyżej %{count} znaków"
+msgstr[2] "powinno mieć najwyżej %{count} znaków"
+
+msgid "should be at most %{count} byte(s)"
+msgid_plural "should be at most %{count} byte(s)"
+msgstr[0] "powinno mieć najwyżej %{count} bajt"
+msgstr[1] "powinno mieć najwżej %{count} bajtów"
+msgstr[2] "powinno mieć najwżej %{count} bajtów"
+
+msgid "must be less than %{number}"
+msgstr "musi być mniejsze niż %{number}"
+
+msgid "must be greater than %{number}"
+msgstr "musi być większe niż %{number}"
+
+msgid "must be less than or equal to %{number}"
+msgstr "musi być mniejsze lub równe %{number}"
+
+msgid "must be greater than or equal to %{number}"
+msgstr "musi być większe lub równe %{number}"
+
+msgid "must be equal to %{number}"
+msgstr "musi być równe %{number}"
