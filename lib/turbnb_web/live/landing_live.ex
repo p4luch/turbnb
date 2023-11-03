@@ -7,7 +7,9 @@ defmodule TurbnbWeb.LandingLive do
 
   def render(assigns) do
     ~H"""
-    <h1>Welcome to TurBnB</h1>
+    <div class="mx-auto">
+      <h1 class="text-center font-extrabold text-4xl"><%= gettext("Welcome to TurBnB") %></h1>
+    </div>
     """
   end
 end

@@ -1,0 +1,183 @@
+## This file is a PO Template file.
+##
+## "msgid"s here are often extracted from source code.
+## Add new messages manually only if they're dynamic
+## messages that can't be statically extracted.
+##
+## Run "mix gettext.extract" to bring this file up to
+## date. Leave "msgstr"s empty as changing them here has no
+## effect: edit them in PO (.po) files instead.
+#
+msgid ""
+msgstr ""
+
+#: lib/turbnb_web/components/core_components.ex:476
+#, elixir-autogen, elixir-format
+msgid "Actions"
+msgstr ""
+
+#: lib/turbnb_web/components/core_components.ex:77
+#: lib/turbnb_web/components/core_components.ex:129
+#, elixir-autogen, elixir-format
+msgid "close"
+msgstr ""
+
+#: lib/turbnb_web/components/layouts/root.html.heex:43
+#, elixir-autogen, elixir-format
+msgid "Log in"
+msgstr ""
+
+#: lib/turbnb_web/components/layouts/root.html.heex:34
+#, elixir-autogen, elixir-format
+msgid "Log out"
+msgstr ""
+
+#: lib/turbnb_web/components/layouts/root.html.heex:25
+#, elixir-autogen, elixir-format
+msgid "Settings"
+msgstr ""
+
+#: lib/turbnb_web/live/user_settings_live.ex:9
+#, elixir-autogen, elixir-format
+msgid "Account Settings"
+msgstr ""
+
+#: lib/turbnb_web/live/user_settings_live.ex:51
+#, elixir-autogen, elixir-format
+msgid "Change Password"
+msgstr ""
+
+#: lib/turbnb_web/live/user_settings_live.ex:39
+#, elixir-autogen, elixir-format
+msgid "Confirm new password"
+msgstr ""
+
+#: lib/turbnb_web/live/user_settings_live.ex:45
+#, elixir-autogen, elixir-format
+msgid "Current password"
+msgstr ""
+
+#: lib/turbnb_web/live/user_login_live.ex:12
+#, elixir-autogen, elixir-format
+msgid "Email"
+msgstr ""
+
+#: lib/turbnb_web/live/user_login_live.ex:16
+#, elixir-autogen, elixir-format
+msgid "Keep me logged in"
+msgstr ""
+
+#: lib/turbnb_web/live/user_settings_live.ex:10
+#, elixir-autogen, elixir-format
+msgid "Manage your password settings"
+msgstr ""
+
+#: lib/turbnb_web/live/user_settings_live.ex:33
+#, elixir-autogen, elixir-format
+msgid "New password"
+msgstr ""
+
+#: lib/turbnb_web/live/user_login_live.ex:13
+#, elixir-autogen, elixir-format
+msgid "Password"
+msgstr ""
+
+#: lib/turbnb_web/live/user_login_live.ex:20
+#, elixir-autogen, elixir-format
+msgid "Sign in"
+msgstr ""
+
+#: lib/turbnb_web/live/user_login_live.ex:8
+#, elixir-autogen, elixir-format
+msgid "Sign in to account"
+msgstr ""
+
+#: lib/turbnb_web/live/user_login_live.ex:19
+#, elixir-autogen, elixir-format
+msgid "Signing in..."
+msgstr ""
+
+#: lib/turbnb_web/live/landing_live.ex:11
+#, elixir-autogen, elixir-format
+msgid "Welcome to TurBnB"
+msgstr ""
+
+#: lib/turbnb/accounts/user.ex:68
+#, elixir-autogen, elixir-format
+msgid "at least one digit or punctuation character"
+msgstr ""
+
+#: lib/turbnb/accounts/user.ex:62
+#, elixir-autogen, elixir-format
+msgid "at least one lower case character"
+msgstr ""
+
+#: lib/turbnb/accounts/user.ex:65
+#, elixir-autogen, elixir-format
+msgid "at least one upper case character"
+msgstr ""
+
+#: lib/turbnb/accounts/user.ex:115
+#, elixir-autogen, elixir-format
+msgid "does not match password"
+msgstr ""
+
+#: lib/turbnb/accounts/user.ex:50
+#, elixir-autogen, elixir-format
+msgid "must have the @ sign and no spaces"
+msgstr ""
+
+#: lib/turbnb_web/components/core_components.ex:157
+#, elixir-autogen, elixir-format
+msgid "Attempting to reconnect"
+msgstr ""
+
+#: lib/turbnb_web/components/core_components.ex:148
+#, elixir-autogen, elixir-format
+msgid "Error!"
+msgstr ""
+
+#: lib/turbnb_web/components/core_components.ex:169
+#, elixir-autogen, elixir-format
+msgid "Hang in there while we get back on track"
+msgstr ""
+
+#: lib/turbnb_web/components/core_components.ex:164
+#, elixir-autogen, elixir-format
+msgid "Something went wrong!"
+msgstr ""
+
+#: lib/turbnb_web/components/core_components.ex:147
+#, elixir-autogen, elixir-format
+msgid "Success!"
+msgstr ""
+
+#: lib/turbnb_web/components/core_components.ex:152
+#, elixir-autogen, elixir-format
+msgid "We can't find the internet"
+msgstr ""
+
+#: lib/turbnb_web/controllers/user_session_controller.ex:8
+#, elixir-autogen, elixir-format
+msgid "Account created successfully!"
+msgstr ""
+
+#: lib/turbnb_web/controllers/user_session_controller.ex:31
+#, elixir-autogen, elixir-format
+msgid "Invalid email or password"
+msgstr ""
+
+#: lib/turbnb_web/controllers/user_session_controller.ex:39
+#, elixir-autogen, elixir-format
+msgid "Logged out successfully."
+msgstr ""
+
+#: lib/turbnb_web/controllers/user_session_controller.ex:14
+#, elixir-autogen, elixir-format
+msgid "Password updated successfully!"
+msgstr ""
+
+#: lib/turbnb_web/controllers/user_session_controller.ex:18
+#, elixir-autogen, elixir-format
+msgid "Welcome back!"
+msgstr ""
